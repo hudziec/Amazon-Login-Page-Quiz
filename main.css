@@ -1,21 +1,21 @@
-.img {
+.center-img {
   display: block;
-  margin: center
-  margin-top: 0px;
-  margin-bottom: 18px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 25px auto;
 }
 
 body {
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
-  background-color: steelblue;
+}
+
+.btn-primary {
+  background-color: orange;
+  width: 100%;
 }
 
 .container>.row {
-  margin-top: 100px;
+  margin-top: 25px;
 }
 
 .card  {
